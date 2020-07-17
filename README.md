@@ -10,6 +10,8 @@ Blog：[小蠢驴打代码](https://minilv.github.io/)
 
 掘金：[小蠢驴打代码](https://juejin.im/user/5a0a82ac6fb9a04515436530)
 
+![](https://github-readme-stats.vercel.app/api?username=miniLV)
+
 <!--
 **miniLV/miniLV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
