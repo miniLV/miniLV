@@ -1,7 +1,6 @@
-### Hi there 👋
-This is miniLV，a rookie iOS/Mac developer. Now learning macos and swift.
-
-I'm good at writing code that no one can understand, and creating bugs that no one can solve.
+### Hi, I'm miniLV  👋
+**Senior iOS / macOS Engineer · Xiamen, China**
+A decade in Apple ecosystem development — from Objective-C runtime internals to modern SwiftUI,<br/>and now exploring AI-assisted engineering workflows.
 
 
 About Me
