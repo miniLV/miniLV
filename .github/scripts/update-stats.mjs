@@ -46,4 +46,4 @@ const svg = `<svg xmlns="http://www.w3.org/2000/svg" width="360" height="120" vi
 </svg>
 `;
 
-await writeFile("profile/stats.svg", svg);
+await writeFile("profile/github-stars.svg", svg);

@@ -10,7 +10,7 @@ Blog：[小蠢驴打代码](https://minilv.github.io/)
 
 掘金：[小蠢驴打代码](https://juejin.im/user/5a0a82ac6fb9a04515436530)
 
-![GitHub Stats](./profile/stats.svg)
+![GitHub Stars](./profile/github-stars.svg)
 
 <!--
 **miniLV/miniLV** is a ✨ _special_ ✨ repository because this README.md (this file) appears on your GitHub profile.
